@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720">
+    <rect width="1200" height="720" rx="36" fill="#111827"/>
+    <g stroke="#334155" stroke-width="2">
+        <path d="M80 600H1120M80 480H1120M80 360H1120M80 240H1120M80 120H1120"/>
+    </g>
+    <polyline points="110,570 260,500 390,530 530,370 670,420 800,260 930,300 1080,150" fill="none" stroke="#60a5fa" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#bfdbfe"><circle cx="110" cy="570" r="12"/><circle cx="260" cy="500" r="12"/><circle cx="390" cy="530" r="12"/><circle cx="530" cy="370" r="12"/><circle cx="670" cy="420" r="12"/><circle cx="800" cy="260" r="12"/><circle cx="930" cy="300" r="12"/><circle cx="1080" cy="150" r="12"/></g>
+    <text x="90" y="82" fill="#f8fafc" font-family="Arial" font-size="34" font-weight="700">ALGORITHM BENCHMARK</text>
+    <text x="90" y="650" fill="#94a3b8" font-family="Arial" font-size="24">Performance • Data Structures • Analysis</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+    <rect width="900" height="600" rx="36" fill="#f8fafc"/>
+    <g transform="translate(450 300)">
+        <polygon points="0,-220 209,-68 129,178 -129,178 -209,-68" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+        <polygon points="0,-175 166,-54 102,141 -102,141 -166,-54" fill="#bfdbfe" opacity=".85"/>
+        <polygon points="0,-120 114,-37 70,97 -70,97 -114,-37" fill="#93c5fd" opacity=".8"/>
+        <polygon points="0,-145 130,-42 77,120 -83,110 -140,-45" fill="none" stroke="#1d4ed8" stroke-width="7"/>
+        <line x1="0" y1="-220" x2="0" y2="220" stroke="#94a3b8"/>
+        <line x1="-209" y1="-68" x2="209" y2="68" stroke="#94a3b8"/>
+        <line x1="-129" y1="178" x2="129" y2="-178" stroke="#94a3b8"/>
+        <text x="0" y="-245" text-anchor="middle" font-family="Arial" font-size="25" font-weight="700" fill="#0f172a">Java</text>
+        <text x="235" y="-70" font-family="Arial" font-size="25" font-weight="700" fill="#0f172a">Python</text>
+        <text x="145" y="215" font-family="Arial" font-size="25" font-weight="700" fill="#0f172a">Git</text>
+        <text x="-205" y="215" font-family="Arial" font-size="25" font-weight="700" fill="#0f172a">Web</text>
+        <text x="-285" y="-70" font-family="Arial" font-size="25" font-weight="700" fill="#0f172a">DSA</text>
+    </g>
+    <text x="450" y="55" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="#0f172a">SKILLS OVERVIEW</text>
+</svg>
